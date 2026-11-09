@@ -1,0 +1,4 @@
+Coloque nesta pasta (`assets/`) as fotos oficiais do escritório e da arquiteta:
+- `hero-arquitetura.jpg` (Foto principal do topo do site)
+- `leticia-sobre.jpg` (Foto da Arq. Letícia Cavalcanti na seção "Quem assina")
+- Fotos dos projetos para referenciar em `CONFIG.projetos` dentro do `script.js`.
